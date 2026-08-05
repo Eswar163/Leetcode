@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
