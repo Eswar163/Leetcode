@@ -10,6 +10,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
