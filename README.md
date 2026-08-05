@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eswar163/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eswar163/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
