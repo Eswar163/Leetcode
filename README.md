@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eswar163/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eswar163/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Eswar163/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Eswar163/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@
 | [0035-search-insert-position](https://github.com/Eswar163/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Eswar163/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eswar163/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Eswar163/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Eswar163/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Eswar163/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
