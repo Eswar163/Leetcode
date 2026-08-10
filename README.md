@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eswar163/Leetcode/tree/master/0035-search-insert-position) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
@@ -56,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
