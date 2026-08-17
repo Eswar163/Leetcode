@@ -1,21 +1,32 @@
-class Solution {
-    public int[] findPeakGrid(int[][] matrix) {
-        int n = matrix.length, m = matrix[0].length, lo = 0, hi = m - 1, mid; 
-        while (lo <= hi) {
-            mid = lo + (hi - lo) / 2;
-            int max_row = 0;
-            for (int i = 0; i < n; ++i) {
-                if (matrix[max_row][mid] < matrix[i][mid])
-                    max_row = i;
+class Solution{
+    int maxelement(int mat[][],int n,int m,int col){
+        int maxRow=0;
+        for(int i=0;i<n;i++){
+            if(mat[i][col]>mat[maxRow][col]){
+                maxRow=i;
             }
-            if ((mid == 0 || matrix[max_row][mid] > matrix[max_row][mid - 1]) && 
-                (mid == m - 1 || matrix[max_row][mid] > matrix[max_row][mid + 1]))
-                return new int[] {max_row, mid};
-            else if (mid > 0 && matrix[max_row][mid - 1] > matrix[max_row][mid])
-                hi = mid - 1;
-            else
-                lo = mid + 1;
         }
-        return new int[] {-1, -1};
+        return maxRow;
+    }
+
+    public int[] findPeakGrid(int[][] mat){
+        int n=mat.length;
+        int m=mat[0].length;
+        int low=0;
+        int high=m-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int row=maxelement(mat,n,m,mid);
+            int left=(mid-1>=0)?mat[row][mid-1]:-1;
+            int right=(mid+1<m)?mat[row][mid+1]:-1;
+            if(mat[row][mid]>left && mat[row][mid]>right){
+                return new int[]{row,mid};
+            }else if(left>mat[row][mid]){
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
+        }
+        return new int[]{-1,-1};
     }
 }
