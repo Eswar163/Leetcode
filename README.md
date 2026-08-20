@@ -37,6 +37,7 @@
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Eswar163/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Eswar163/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -140,4 +141,8 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eswar163/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Eswar163/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Eswar163/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
