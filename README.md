@@ -36,6 +36,7 @@
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Eswar163/Leetcode/tree/master/0709-to-lower-case) |
+| [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Eswar163/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Eswar163/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Eswar163/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
