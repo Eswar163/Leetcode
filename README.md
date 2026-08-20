@@ -31,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Eswar163/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Eswar163/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
