@@ -20,6 +20,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Eswar163/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eswar163/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Eswar163/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Eswar163/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Eswar163/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Eswar163/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +59,7 @@
 | [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eswar163/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eswar163/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -153,8 +156,22 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
