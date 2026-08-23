@@ -108,6 +108,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Eswar163/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Eswar163/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Eswar163/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -174,4 +176,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
