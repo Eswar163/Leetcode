@@ -112,6 +112,7 @@
 | [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Eswar163/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Eswar163/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
@@ -195,4 +196,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Eswar163/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
