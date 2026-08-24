@@ -109,6 +109,7 @@
 | [0069-sqrtx](https://github.com/Eswar163/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Eswar163/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Eswar163/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Eswar163/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Eswar163/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Eswar163/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -192,4 +194,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
