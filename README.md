@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eswar163/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eswar163/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Eswar163/Leetcode/tree/master/0162-find-peak-element) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Eswar163/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
@@ -197,4 +200,12 @@
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Eswar163/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
