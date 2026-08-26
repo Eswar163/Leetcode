@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eswar163/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Eswar163/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Eswar163/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Eswar163/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Eswar163/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Eswar163/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Eswar163/Leetcode/tree/master/0326-power-of-three) |
@@ -199,6 +201,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eswar163/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Eswar163/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Eswar163/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Eswar163/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Eswar163/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Eswar163/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
