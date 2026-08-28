@@ -17,6 +17,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Eswar163/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Eswar163/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Eswar163/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Eswar163/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Eswar163/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eswar163/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eswar163/Leetcode/tree/master/0704-binary-search) |
@@ -55,6 +56,7 @@
 | [0205-isomorphic-strings](https://github.com/Eswar163/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eswar163/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Eswar163/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Eswar163/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -65,6 +67,7 @@
 | [0075-sort-colors](https://github.com/Eswar163/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Eswar163/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eswar163/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Eswar163/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Eswar163/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Eswar163/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
@@ -85,6 +88,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Eswar163/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Eswar163/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eswar163/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Eswar163/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +104,7 @@
 | [0268-missing-number](https://github.com/Eswar163/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Eswar163/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Eswar163/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Eswar163/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Eswar163/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Eswar163/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Eswar163/Leetcode/tree/master/0410-split-array-largest-sum) |
