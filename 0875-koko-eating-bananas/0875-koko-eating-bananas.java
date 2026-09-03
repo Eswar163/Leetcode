@@ -1,38 +1,33 @@
 class Solution {
-    
-        int findmax(int[] piles){
-        int max=Integer.MIN_VALUE;
-        int n=piles.length;
-        for(int i=0;i<n;i++){
-            max=Math.max(max,piles[i]);
-        }
-        return max;
-        }
-        int totalhr(int[] piles,int speed){
-            int totalhr=0;
-            for(int i=0;i<piles.length;i++){
-                totalhr+=Math.ceil((double)piles[i]/speed);
-            }
-            return totalhr;
-        }
-       
+
     public int minEatingSpeed(int[] piles, int h) {
 
         int low = 1;
-        int high = findmax(piles);
+        int high = 0;
 
-        while (low <= high) {
+       
+        for (int pile : piles) {
+            high = Math.max(high, pile);
+        }
+
+        while (low < high) {
 
             int mid = low + (high - low) / 2;
 
-            int totalh = totalhr(piles, mid);
+            int hours = 0;
 
-            if (totalh <= h) {
-                high = mid - 1;
+          
+            for (int pile : piles) {
+                hours += (pile + mid - 1) / mid;
+            }
+
+            if (hours <= h) {
+                high = mid;       
             } else {
-                low = mid + 1;
+                low = mid + 1;    
             }
         }
+
         return low;
     }
 }
